@@ -1,2 +1,2 @@
-Trainspoting
-Gladiator
+let movie1 = "Trainspoting"
+let movie2 = "Gladiator"
